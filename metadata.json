@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Cashback AI Parser",
+  "description": "An AI agent that extracts cashback categories and percentages from banking app screenshots to help populate Google Sheets.",
+  "requestFramePermissions": []
+}
